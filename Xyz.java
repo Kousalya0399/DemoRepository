@@ -1,18 +1,13 @@
 Public class Xyz
 {
 	private int x;
-private String str;
-	public void setStr()
-{
+	public void setX()
+	{
 	
-}
-public void setX()
-{
-	
-}
-public void getX()
-{
-	return x;
-}
+	}
+	public void getX()
+	{
+		return x;
+	}
 
 }
